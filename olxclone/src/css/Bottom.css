@@ -1,0 +1,20 @@
+.parentdiv{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
+    background:rgb(14, 116, 179);
+    align-items: center;
+}
+.parentdiv>div{
+    width: 30% ;
+    align-items: center;
+}
+.jj{
+    display: flex;
+    justify-content: space-between;
+}
+.parentdiv>div>img{
+    width: 70%;
+    height: 40%;
+}
