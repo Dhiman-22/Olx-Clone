@@ -1,10 +1,10 @@
 # OLX clone
 OLX is the perfect online marketplace to buy and sell locally! No need to visit the flea market to find the best deals on pre-owned items! Here you’ll find a wide selection of like new products.
 
-<h3>Live Demo Link https://fantastic-seahorse-4fa219.netlify.app/ </h3>
+<h3>Live Demo Link https://chic-kitten-ee4e52.netlify.app/ </h3>
 
  <h1>Home Page</h1>
-    <img src="https://i.postimg.cc/XvfcfyVr/Screenshot-2023-02-27-at-9-34-04-PM.png" alt="">
+    <img src="https://i.postimg.cc/nrshJYGN/Screenshot-260.png" alt="">
   <h1>product Page</h1>
     <img src="https://i.postimg.cc/QVZdJVNM/Screenshot-2023-02-27-at-9-35-04-PM.png" alt="">
      <h1>SingleProduct-Page</h1>
