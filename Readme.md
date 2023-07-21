@@ -8,7 +8,7 @@ OLX is the perfect online marketplace to buy and sell locally! No need to visit 
   <h1>product Page</h1>
     <img src="https://i.postimg.cc/qBy3z2V4/Screenshot-264.png" alt="">
      <h1>SingleProduct-Page</h1>
-    <img src="https://i.postimg.cc/CxK7k45d/Screenshot-2023-02-27-at-9-53-00-PM.png" alt="">
+    <img src="https://i.postimg.cc/ydPCbf37/Screenshot-265.png" alt="">
     <h1>[Getting Started]</h1>
     <h3>Execution</h3>
     <p>If you want to run our project in your local machine</p>
